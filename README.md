@@ -10,13 +10,6 @@ To run this project, you need:
 - seaborn  
 - matplotlib.pyplot  
 
-You can install the required packages using:
-
-```bash
-pip install pandas seaborn matplotlib
-
-```bash
-
 ## Data set
 
 The dataset contains information about Titanic passengers and whether they survived.
